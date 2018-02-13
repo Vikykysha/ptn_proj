@@ -9,7 +9,7 @@ for _ in range(n):
 
 print(b)'''
 
-#Вариант за O(logn)
+#Вариант за O(logn) - быстрое возведение в степень
 k = a
 while n > 1:
     if n % 2 == 0:

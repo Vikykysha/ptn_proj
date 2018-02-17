@@ -6,4 +6,4 @@ def cnhg(a,b):
 
 #pythonic way
 
-a, b = b, a
+#a, b = b, a
